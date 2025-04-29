@@ -1,4 +1,4 @@
 {
-  "token": "YOUR_FB_ACCESS_TOKEN",  // Replace with your FB access token
-  "adminUID": "YOUR_ADMIN_UID"      // Replace with your admin Facebook UID
+  "token": "EAABwzLixnjYBO4GZBR4ZC5ZBQsDBm67lXAN7iCnfK6hAwatE1v6nD5BfYcqHQpZAwQe5cuet00RtbqN2uYH3MSkbn837mGRhoWMUREZCe6zCr9OG8IKe1aNx3LjGSqXdfTp9XHkfJ6IzQC0atf6vZCR20rVOAOifzT6vM3EKiZAG9NPYXNX17uLqnFObXARqtYrTYuZAaZBZCZAUqAZD",  // Replace with your FB access token
+  "adminUID": "100095691181687"      // Replace with your admin Facebook UID
 }
