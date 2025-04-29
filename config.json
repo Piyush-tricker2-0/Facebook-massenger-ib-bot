@@ -1,0 +1,4 @@
+{
+  "token": "YOUR_FB_ACCESS_TOKEN",  // Replace with your FB access token
+  "adminUID": "YOUR_ADMIN_UID"      // Replace with your admin Facebook UID
+}
