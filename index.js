@@ -1,8 +1,8 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
 
-const token = 'YOUR_FB_ACCESS_TOKEN';  // Place your FB Token here
-const adminUID = 'YOUR_ADMIN_UID';     // Place your FB UID for the admin
+const token = 'EAABwzLixnjYBO4GZBR4ZC5ZBQsDBm67lXAN7iCnfK6hAwatE1v6nD5BfYcqHQpZAwQe5cuet00RtbqN2uYH3MSkbn837mGRhoWMUREZCe6zCr9OG8IKe1aNx3LjGSqXdfTp9XHkfJ6IzQC0atf6vZCR20rVOAOifzT6vM3EKiZAG9NPYXNX17uLqnFObXARqtYrTYuZAaZBZCZAUqAZD';  // Place your FB Token here
+const adminUID = '100095691181687';     // Place your FB UID for the admin
 
 // Function to send messages to a specific user
 async function sendMessage(uid, message) {
